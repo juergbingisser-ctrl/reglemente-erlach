@@ -27,6 +27,7 @@ Die Dokumente sind nach Aufgabenbereichen in Unterordner gegliedert. Die Links f
 | Datei | Beschreibung |
 | :--- | :--- |
 | [Baureglement mit Überbauungsvorschriften zu den Uferschutzplänen 1 und 2](03_bau_planung/baureglement-mit-ueberbauungsvorschriften-zu-den-uferschutzplaenen-1-und-2.md) | Baureglement (BR) inkl. Uferschutzpläne, Teilrevision genehmigt 26. November 2020 |
+| [Reglement über die Mehrwertabgabe (MWAR)](03_bau_planung/reglement-mehrwertabgabe-mwar.md) | Mehrwertabgabe bei Ein-, Um- und Aufzonungen; Spezialfinanzierung; in Kraft seit 01.06.2024 |
 | [Referenzen und gesetzliche Grundlagen](03_bau_planung/Referenzen%20und%20gesetzliche%20Grundlagen.md) | Übergeordnete rechtliche Grundlagen zum Baureglement |
 
 ### 💧 04 — Infrastruktur & Umwelt
@@ -51,7 +52,7 @@ Die Dokumente sind nach Aufgabenbereichen in Unterordner gegliedert. Die Links f
 | :--- | :---: | :---: | :---: |
 | 01_organisation_recht | 3 | ✅ | ✅ |
 | 02_finanzen_steuern | 1 | ✅ | ✅ |
-| 03_bau_planung | 2 | ⬜ | ⬜ |
+| 03_bau_planung | 3 | ✅ (MWAR) / ⬜ (BR) | ✅ (MWAR) / ⬜ (BR) |
 | 04_infrastruktur_umwelt | 3 | ✅ | ✅ |
 | 05_sicherheit_ordnung | 1 | ✅ | ✅ |
 
