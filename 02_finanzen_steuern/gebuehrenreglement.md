@@ -162,7 +162,7 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 
 | Dienstleistung | Gebühr |
 | :--- | :--- |
-| Auszug aus dem Bürgerregister zu nicht amtlichem Gebrauch | Fr. 50.-- |
+| Auszug aus dem Bürgerregister zu nicht amtlichem Gebrauch | CHF 50.00 |
 
 **Familienrecht**
 
@@ -179,12 +179,12 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 | Dienstleistung | Gebühr |
 | :--- | :--- |
 | ¹ Siegelung, Entsiegelung | Aufwandgebühr II |
-| ² Letztwillige Verfügung, Aufbewahrung mit Empfangsschein | Fr. 30.-- |
-| ³ Letztwillige Verfügung, Einladung zur Eröffnung | Fr. 10.-- pro Person |
+| ² Letztwillige Verfügung, Aufbewahrung mit Empfangsschein | CHF 30.00 |
+| ³ Letztwillige Verfügung, Einladung zur Eröffnung | CHF 10.00 pro Person |
 | ⁴ Letztwillige Verfügung, mündliche Eröffnung, mit Zeugnis | Aufwandgebühr II |
-| ⁵ Letztwillige Verfügung, Auszug | Fr. 2.-- pro Seite |
-| ⁶ Letztwillige Verfügung, Bescheinigung, dass kein Testament eingereicht wurde | Fr. 20.-- |
-| ⁷ Letztwillige Verfügung, Erbenbescheinigung nach Art. 559 ZGB | Fr. 30.-- |
+| ⁵ Letztwillige Verfügung, Auszug | CHF 2.00 pro Seite |
+| ⁶ Letztwillige Verfügung, Bescheinigung, dass kein Testament eingereicht wurde | CHF 20.00 |
+| ⁷ Letztwillige Verfügung, Erbenbescheinigung nach Art. 559 ZGB | CHF 30.00 |
 | ⁸ Letztwillige Verfügung, Einholen von Familienscheinen | Aufwandgebühr I |
 | ⁹ Letztwillige Verfügung, Nachforschung nach den Erben | Aufwandgebühr I |
 
@@ -248,7 +248,7 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 | :--- | :--- |
 | ¹ Mitbericht für Wanderlager, Verkaufswagen und Unterhaltungsgewerbe | Aufwandgebühr I |
 | ² Hausiererpatent — Visum | gratis |
-| ³ Bewilligung für Demonstrations- oder Werbeveranstaltungen: a) Stellungnahme betreffend Einsteigeort | Fr. 20.-- |
+| ³ Bewilligung für Demonstrations- oder Werbeveranstaltungen: a) Stellungnahme betreffend Einsteigeort | CHF 20.00 |
 | b) Stellungnahme zur Durchführung der Veranstaltung in der Gemeinde | Aufwandgebühr I |
 | ⁴ Stellungnahme zum Gesuch um Einrichtungs- bzw. Betriebsbewilligung für Spielsalons | Aufwandgebühr I |
 | ⁵ Jahresgebühr pro aufgestellten Spielautomaten in Spielsalons | gleich wie kantonale Gebühr |
@@ -262,10 +262,10 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 
 | Dienstleistung | Gebühr |
 | :--- | :--- |
-| ¹ Erteilung der Bewilligung (darin enthalten: bis zum 10m² Fläche für einen Tag): einmalige Grundgebühr | Fr. 40.-- |
-| ² Für jeden weiteren m² und jeden weiteren Tag: befestigter Boden (wie Strassen, Trottoirs, Plätze etc): pro m²/Tag | Fr. --.50 |
-| unbefestigter Boden: pro m²/Tag | Fr. --.20 |
-| ³ Die maximale Tagesgebühr beträgt Fr. 150.-- (ohne Grundgebühr) | |
+| ¹ Erteilung der Bewilligung (darin enthalten: bis zum 10m² Fläche für einen Tag): einmalige Grundgebühr | CHF 40.00 |
+| ² Für jeden weiteren m² und jeden weiteren Tag: befestigter Boden (wie Strassen, Trottoirs, Plätze etc): pro m²/Tag | CHF 0.50 |
+| unbefestigter Boden: pro m²/Tag | CHF 0.20 |
+| ³ Die maximale Tagesgebühr beträgt CHF 150.00 (ohne Grundgebühr) | |
 | ⁴ Keine Gebühr wird erhoben bei Bewilligungen zum Sammeln von Unterschriften für Initiativen und Referenden | |
 
 **Leumundszeugnis**
@@ -274,7 +274,7 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 
 | Dienstleistung | Gebühr |
 | :--- | :--- |
-| Leumunds- und Handlungsfähigkeitszeugnis | Fr. 20.-- |
+| Leumunds- und Handlungsfähigkeitszeugnis | CHF 20.00 |
 
 **Ausweise**
 
@@ -282,9 +282,9 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 
 | Dienstleistung | Gebühr |
 | :--- | :--- |
-| ¹ Passempfehlung / Passverlängerung | Fr. 10.-- |
+| ¹ Passempfehlung / Passverlängerung | CHF 10.00 |
 | ² Identitätskarten | Eidg. Verordnung über die Schweizerische Identitätskarte (SR 143.3) |
-| ³ Verlustmeldung der Identitätskarte | Fr. 10.-- |
+| ³ Verlustmeldung der Identitätskarte | CHF 10.00 |
 
 **Fundbüro**
 
@@ -292,7 +292,7 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 
 | Dienstleistung | Gebühr |
 | :--- | :--- |
-| Herausgabe von Fundgegenständen | Fr. 10.-- |
+| Herausgabe von Fundgegenständen | CHF 10.00 |
 
 **Lotto, Lotterie, Tombola**
 
@@ -300,7 +300,7 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 
 | Dienstleistung | Gebühr |
 | :--- | :--- |
-| Stellungnahme zum Gesuch um eine Bewilligung | Fr. 10.-- |
+| Stellungnahme zum Gesuch um eine Bewilligung | CHF 10.00 |
 
 **Waffenerwerbsschein**
 
@@ -308,7 +308,7 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 
 | Dienstleistung | Gebühr |
 | :--- | :--- |
-| Stellungnahme zum Gesuch um einen Waffenerwerbsschein | Fr. 50.-- |
+| Stellungnahme zum Gesuch um einen Waffenerwerbsschein | CHF 50.00 |
 
 **Reklame**
 
@@ -332,7 +332,7 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 | :--- | :--- |
 | ¹ Kontrolle auf Vollständigkeit und inhaltliche Richtigkeit | Aufwandgebühr I |
 | ² Profilkontrolle | Aufwandgebühr II |
-| ³ Aufforderung zur Behebung einfacher Mängel | Fr. 30.-- |
+| ³ Aufforderung zur Behebung einfacher Mängel | CHF 30.00 |
 
 **Vorläufige formelle und materielle Prüfung (Gemeinde = Baubewilligungsbehörde)**
 
@@ -341,7 +341,7 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 | Dienstleistung | Gebühr |
 | :--- | :--- |
 | ¹ Prüfung auf formelle und offensichtliche materielle Mängel | Aufwandgebühr II |
-| ² Rückweisung zur Verbesserung | Fr. 50.-- |
+| ² Rückweisung zur Verbesserung | CHF 50.00 |
 | ³ Nichteintretensentscheid / Bauabschlag (Blitzentscheid) / Abschreibungsverfügung | Aufwandgebühr II |
 
 **Koordinierte, materielle Prüfung (Gemeinde = Baubewilligungsbehörde)**
@@ -351,20 +351,20 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 | Dienstleistung | Gebühr |
 | :--- | :--- |
 | ¹ Prüfung gemäss Leitfaden für das Baubewilligungsverfahren | Aufwandgebühr II |
-| ² Einholen von Amtsberichten und Nebenbewilligungen | Fr. 20.-- pro Gesuch |
-| ³ Publikation | Fr. 50.-- |
-| ⁴ Mitteilung an die Nachbarn | Fr. 50.-- |
+| ² Einholen von Amtsberichten und Nebenbewilligungen | CHF 20.00 pro Gesuch |
+| ³ Publikation | CHF 50.00 |
+| ⁴ Mitteilung an die Nachbarn | CHF 50.00 |
 | ⁵ Einspracheverhandlung | Aufwandgebühr II |
 | ⁶ Bauentscheid | Aufwandgebühr II |
-| ⁷ Weitere Bewilligungen: a) Schutzraumbefreiung | Fr. 30.-- |
+| ⁷ Weitere Bewilligungen: a) Schutzraumbefreiung | CHF 30.00 |
 | b) Gewässerschutz | Verordnung über die Gebühren der Kantonsverwaltung (BSG 154.21) |
-| c) Strassenanschluss | Fr. 30.-- |
-| d) Beanspruchung Strassenterrain | Fr. 30.-- |
+| c) Strassenanschluss | CHF 30.00 |
+| d) Beanspruchung Strassenterrain | CHF 30.00 |
 | e) Brandschutz | Aufwandgebühr I |
 | f) Energietechnischer Massnahmennachweis | Aufwandgebühr II |
-| g) Wasseranschluss | Fr. 30.-- |
-| h) Elektrizitätsanschluss | Fr. 30.-- |
-| i) Gemeinschaftsantennenanlagen-Anschluss | Fr. 30.-- |
+| g) Wasseranschluss | CHF 30.00 |
+| h) Elektrizitätsanschluss | CHF 30.00 |
+| i) Gemeinschaftsantennenanlagen-Anschluss | CHF 30.00 |
 
 **Beratung und Antragstellung (Gemeinde nicht Baubewilligungsbehörde)**
 
@@ -391,7 +391,7 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 
 | Dienstleistung | Gebühr |
 | :--- | :--- |
-| Gesuch um Zustimmung zur vorzeitigen Baubewilligung | Fr. 50.-- |
+| Gesuch um Zustimmung zur vorzeitigen Baubewilligung | CHF 50.00 |
 
 **Vorzeitiger Baubeginn**
 
@@ -411,7 +411,7 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 
 | Dienstleistung | Gebühr |
 | :--- | :--- |
-| Anzeige des Baubeginns (im Lastenausgleichsverfahren) | Fr. 30.-- |
+| Anzeige des Baubeginns (im Lastenausgleichsverfahren) | CHF 30.00 |
 
 **Kontrollen**
 
@@ -472,7 +472,7 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 
 | Dienstleistung | Gebühr |
 | :--- | :--- |
-| ¹ Auszug aus dem Steuerregister / Taxationsbescheinigung an Private | Fr. 10.-- |
+| ¹ Auszug aus dem Steuerregister / Taxationsbescheinigung an Private | CHF 10.00 |
 | ² Registernachschlag / Auskunft über Steuertaxation | Aufwandgebühr I |
 
 **Amtliche Bewertung**
@@ -481,9 +481,9 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 
 | Dienstleistung | Gebühr |
 | :--- | :--- |
-| ¹ Auszug aus dem Register der amtlichen Werte (Fotokopie) | Fr. 10.-- |
+| ¹ Auszug aus dem Register der amtlichen Werte (Fotokopie) | CHF 10.00 |
 | ² Ausserordentliche Neubewertung mit Kostenfolge | Aufwandgebühr I |
-| ³ Vorzeitige Eröffnung des amtlichen Wertes | Fr. 50.-- |
+| ³ Vorzeitige Eröffnung des amtlichen Wertes | CHF 50.00 |
 
 **Hundetaxe**
 
@@ -493,7 +493,7 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 
 ² Taxpflichtig sind die Hundehalterinnen und Hundehalter, welche am 1. August in der Gemeinde Wohnsitz haben.
 
-³ Der Gemeinderat legt die Höhe der Taxe zwischen Fr. 100.- und Fr. 200.- (jährlich pro Hund) in einer Verordnung fest. Die Höhe der Taxe ist, abgesehen von den Ausnahmebestimmungen nach Art. 13 Abs. 4 des Hundegesetzes, für alle Hunde gleich.
+³ Der Gemeinderat legt die Höhe der Taxe zwischen CHF 100.00 und CHF 200.00 (jährlich pro Hund) in einer Verordnung fest. Die Höhe der Taxe ist, abgesehen von den Ausnahmebestimmungen nach Art. 13 Abs. 4 des Hundegesetzes, für alle Hunde gleich.
 
 ---
 
@@ -540,8 +540,8 @@ Nach Ablauf der Zahlungsfrist sind ohnen Weiteres ein Verzugszins in der Höhe d
 
 | Dienstleistung | Gebühr |
 | :--- | :--- |
-| ¹ Mahnung | Fr. 20.-- |
-| ² Verfügung | Fr. 30.-- |
+| ¹ Mahnung | CHF 20.00 |
+| ² Verfügung | CHF 30.00 |
 
 ---
 
@@ -601,10 +601,10 @@ Gestützt auf Artikel 51 des Gebührenreglementes der Gemeinde Erlach vom 13. De
 
 | Pos. | Bezeichnung | Ansatz |
 | :--- | :--- | :--- |
-| 1. | Aufwandgebühr I | Fr. 50.-- pro Stunde |
-| 2. | Aufwandgebühr II | Fr. 100.-- pro Stunde |
-| 3. | Fotokopien (durch Verwaltungspersonal) | Fr. 1.50 pro Seite |
-| 4. | Auto — Spesen | Fr. 0.65 pro km |
+| 1. | Aufwandgebühr I | CHF 50.00 pro Stunde |
+| 2. | Aufwandgebühr II | CHF 100.00 pro Stunde |
+| 3. | Fotokopien (durch Verwaltungspersonal) | CHF 1.50 pro Seite |
+| 4. | Auto — Spesen | CHF 0.65 pro km |
 
 **Inkrafttreten**
 
@@ -638,7 +638,7 @@ GENEHMIGT durch das Amt für Gemeinden und Raumordnung am 31. JAN. 1996
 
 ² Taxpflichtig sind die Hundehalterinnen und Hundehalter, welche am 1. August in der Gemeinde Wohnsitz haben.
 
-³ Der Gemeinderat legt die Höhe der Taxe zwischen Fr. 100.- und Fr. 200.- (jährlich pro Hund) in einer Verordnung fest. Die Höhe der Taxe ist, abgesehen von den Ausnahmebestimmungen nach Art. 13 Abs. 4 des Hundegesetzes, für alle Hunde gleich.
+³ Der Gemeinderat legt die Höhe der Taxe zwischen CHF 100.00 und CHF 200.00 (jährlich pro Hund) in einer Verordnung fest. Die Höhe der Taxe ist, abgesehen von den Ausnahmebestimmungen nach Art. 13 Abs. 4 des Hundegesetzes, für alle Hunde gleich.
 
 **Inkrafttreten**
 
@@ -668,7 +668,7 @@ In Anwendung von Art. 45a des Gebührenreglements vom 01.02.1996 (Teilrevision v
 
 **Tarif**
 
-**Art. 2** Die Hundetaxe beträgt Fr. 100.- pro Jahr.
+**Art. 2** Die Hundetaxe beträgt CHF 100.00 pro Jahr.
 
 **Inkrafttreten**
 
