@@ -615,7 +615,70 @@ Gemeindeschreiberin
 
 ## Anhang I: Organigramm Einwohnergemeinde Erlach
 
-*(Grafik nicht im Scan enthalten)*
+Das Organigramm ist als Mermaid-Diagramm verfügbar:  
+👉 [organigramm-einwohnergemeinde-erlach.mermaid](organigramm-einwohnergemeinde-erlach.mermaid)
+
+```mermaid
+graph TD
+
+    GV["🗳️ Stimmberechtigte\n(Gemeindeversammlung / Urne)"]
+    GR["GEMEINDERAT\n(7 Mitglieder)"]
+    GV --> GR
+
+    RB["Ratsbüro\n(Gemeindepräsidium + Gemeindeschreiber/in)"]
+    GR --> RB
+
+    R1["Ressort\nPräsidiales / Finanzen &\nSteuerwesen / Ortspolizei\n★ Gemeindepräsidium"]
+    R2["Ressort\nBau und Planung"]
+    R3["Ressort\nLand-, Reb- & Forstwesen\nöff. Sicherheit / Liegenschaften"]
+    R4["Ressort\nBildung, Jugend\nund Sport"]
+    R5["Ressort\nSoziales"]
+    R6["Ressort\nTourismus, Kultur &\nFreizeit / öff. Verkehr"]
+    R7["Ressort\nVer- und Entsorgung"]
+
+    GR --> R1
+    GR --> R2
+    GR --> R3
+    GR --> R4
+    GR --> R5
+    GR --> R6
+    GR --> R7
+
+    K_SWA["Stimm- und\nWahlausschuss"]
+    K_BAU["Baukommission"]
+    K_SJS["Kommission für Schule,\nJugend und Sport"]
+    K_SOZ["Regionale\nSozialkommission"]
+    K_TKF["Kommission für Tourismus,\nKultur und Freizeit"]
+
+    R1 --- K_SWA
+    R2 --- K_BAU
+    R4 --- K_SJS
+    R5 --- K_SOZ
+    R6 --- K_TKF
+
+    GL["Geschäftsleitung\n(Personalunion:\nAbteilungsleitung\nGemeindeschreiberei/Bauverwaltung)"]
+    R1 -->|"Aufsicht (Art. 36 Abs. 4)"| GL
+
+    GSch["Gemeindeschreiberei"]
+    BauV["Bauverwaltung"]
+    FinV["Finanzverwaltung"]
+    RSD["Regionaler\nSozialdienst"]
+
+    GL --> GSch
+    GL --> BauV
+    GL --> FinV
+    GL --> RSD
+
+    R1 -.->|fachlich| GSch
+    R1 -.->|fachlich| FinV
+    R2 -.->|fachlich| BauV
+    R3 -.->|fachlich| GSch
+    R3 -.->|fachlich| BauV
+    R4 -.->|fachlich| GSch
+    R5 -.->|fachlich| RSD
+    R6 -.->|fachlich| GSch
+    R7 -.->|fachlich| BauV
+```
 
 ---
 
