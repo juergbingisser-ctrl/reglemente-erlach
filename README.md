@@ -6,56 +6,76 @@ Willkommen im digitalen Archiv der offiziellen Erlasse, Reglemente und Verordnun
 
 ## 📂 Systematische Sammlung (Übersicht)
 
-Die Dokumente sind nach den typischen Aufgaben- und Departementsbereichen der Gemeinde gegliedert. Die Links führen direkt zu den jeweiligen Markdown-Dateien im Repository.
+Die Dokumente sind nach Aufgabenbereichen in Unterordner gegliedert. Die Links führen direkt zu den jeweiligen Markdown-Dateien im Repository.
 
-### 🏛️ 1. Behörden, Organisation & Datenschutz
-* [Gemeindeordnung (GO) inkl. Anhang](gemeindeordnung.md) – *Das Grundgesetz der Gemeinde Erlach (Fassung 2001, revidiert 2018).*
-* `reglement-wahlen-abstimmungen.md` – *Regelt das Abstimmungs- und Wahlverfahren an der Urne und der Gemeindeversammlung.*
-* `verordnung-verwaltungsorganisation.md` – *Zuständigkeiten der Ratsmitglieder, Ressorts und Organisation der Verwaltung.*
-* `datenschutzreglement.md` – *Kommunale Bestimmungen zum Schutz von Personendaten in Behörden und Verwaltung.*
+### 🏛️ 01 — Organisation & Recht
 
-### 💰 2. Finanzen & Steuern
-* `steuerreglement.md` – *Bestimmungen über die Gemeindesteuern, Steueranlagen und Sondersteuern.*
-* `gebuehrenreglement.md` – *Grundsätze der Erhebung von Verwaltungs- und Kanzleigebühren.*
+| Datei | Beschreibung |
+| :--- | :--- |
+| [Gemeindeordnung (GO) inkl. Anhang](01_organisation_recht/gemeindeordnung.md) | Grundgesetz der Gemeinde Erlach (Fassung 2001, revidiert 2018) |
+| [Reglement über Abstimmungen und Wahlen](01_organisation_recht/reglement-ueber-abstimmungen-und-wahlen.md) | Abstimmungs- und Wahlverfahren an der Urne und der Gemeindeversammlung |
+| [Verordnung über die Verwaltungsorganisation (VVorg)](01_organisation_recht/verordnung-ueber-die-verwaltungsorganisation.md) | Zuständigkeiten der Ratsmitglieder, Ressorts und Organisation der Verwaltung (in Kraft seit 01.01.2019) |
 
-### 🏗️ 3. Bau, Planung & Umwelt
-* `baurechtliche-grundordnung.md` – *Zonenplan und Baureglement (ZBR) der Gemeinde.*
-* `reglement-grundeigentuemerbeitraege.md` – *Erschliessungsbeiträge und Gebühren bei Bauvorhaben.*
-* `abfallreglement.md` – *Bestimmungen über die Kehrichtentsorgung, Wertstofftrennung und Spezialentsorgungen.*
+### 💰 02 — Finanzen & Steuern
 
-### 💧 4. Versorgung & Entsorgung (Departement Ver- und Entsorgung)
-* `wasserversorgungsreglement.md` – *Regelt den Anschluss an das öffentliche Wassernetz und die Verbrauchsgebühren.*
-* `abwasserreglement.md` – *Bestimmungen über die Liegenschaftsentwässerung und die Abwasserreinigung.*
-* `reglement-antennenanlagen.md` – *Bestimmungen zur gemeinschaftlichen Antennenanlage oder Kommunikationseinrichtungen.*
+| Datei | Beschreibung |
+| :--- | :--- |
+| [Gebührenreglement](02_finanzen_steuern/gebuehrenreglement.md) | Grundsätze der Erhebung von Verwaltungs- und Kanzleigebühren |
 
-### ⛵ 5. Tourismus, Kultur, Freizeit & Liegenschaften
-* `hafenreglement.md` – *Nutzungs- und Gebührenordnung für den Kleinboothafen Erlach.*
-* `campingplatzreglement.md` – *Betriebs- und Benützungsordnung für den Gemeindecampingplatz.*
-* `benutzungsordnung-gemeindeanlagen.md` – *Regelt die Miete und Nutzung von Schulanlagen, Mehrzweckhallen und öffentlichen Plätzen.*
+### 🏗️ 03 — Bau & Planung
 
-### 🏫 6. Bildung, Jugend & Soziales
-* `personalreglement.md` – *Anstellungsbedingungen des Gemeindepersonals (öffentlich-rechtlich und privatrechtlich).*
-* `vertrag-regionale-sozialhilfe.md` – *Grundlagenvertrag der interkommunalen Zusammenarbeit im Sozialwesen.*
+| Datei | Beschreibung |
+| :--- | :--- |
+| [Baureglement mit Überbauungsvorschriften zu den Uferschutzplänen 1 und 2](03_bau_planung/baureglement-mit-ueberbauungsvorschriften-zu-den-uferschutzplaenen-1-und-2.md) | Baureglement (BR) inkl. Uferschutzpläne, Teilrevision genehmigt 26. November 2020 |
+| [Referenzen und gesetzliche Grundlagen](03_bau_planung/Referenzen%20und%20gesetzliche%20Grundlagen.md) | Übergeordnete rechtliche Grundlagen zum Baureglement |
+
+### 💧 04 — Infrastruktur & Umwelt
+
+| Datei | Beschreibung |
+| :--- | :--- |
+| [Abfallreglement mit Gebührentarif](04_infrastruktur_umwelt/abfallreglement-mit-gebuehrentarif.md) | Kehrichtentsorgung, Separatsammlungen, Sonderabfälle; Tarif gültig ab 01.01.1994 |
+| [Abwasserentsorgungsreglement mit Gebührentarif](04_infrastruktur_umwelt/abwasserentsorgungsreglement-mit-gebuehrentarif.md) | Liegenschaftsentwässerung, Anschlusspflicht, Gebühren; Tarifstand 01.01.2009 |
+| [Wasserversorgungsreglement mit Wassertarif](04_infrastruktur_umwelt/wasserversorgungsreglement.md) | Wasserversorgung, Anschlussgebühren, Wassertarif; in Kraft seit 01.01.2002 |
+
+### 🚔 05 — Sicherheit & Ordnung
+
+| Datei | Beschreibung |
+| :--- | :--- |
+| [Gemeindepolizeireglement](05_sicherheit_ordnung/gemeindepolizeireglement.md) | Lärm, Feuerwerk, Hundehaltung, Campingverbot, Bootshafen; in Kraft seit 01.10.2005 |
+
+---
+
+## 📋 Bearbeitungsstatus
+
+| Ordner | Dateien vorhanden | YAML Front Matter | Formatierung bereinigt |
+| :--- | :---: | :---: | :---: |
+| 01_organisation_recht | 3 | ✅ | ✅ |
+| 02_finanzen_steuern | 1 | ✅ | ✅ |
+| 03_bau_planung | 2 | ⬜ | ⬜ |
+| 04_infrastruktur_umwelt | 3 | ✅ | ✅ |
+| 05_sicherheit_ordnung | 1 | ✅ | ✅ |
 
 ---
 
 ## 🛠️ Technische Umsetzung & Dateiformat
 
-Alle Dokumente in diesem Repository folgen strengen Digitalisierungsrichtlinien, um maximale Lesbarkeit und Barrierefreiheit auf GitHub zu gewährleisten:
+Alle Dokumente in diesem Repository folgen einheitlichen Digitalisierungsrichtlinien:
 
-* **YAML-Frontmatter:** Jede Datei beginnt mit standardisierten Metadaten (Titel, Stand der Revision, Datum des Inkrafttretens).
-* **GitHub Flavored Markdown (GFM):** Tabellen, Verweise und Querverweise innerhalb der Dokumente sind nativ umgesetzt.
+* **YAML Front Matter:** Jede Datei beginnt mit standardisierten Metadaten (Titel, Typ, Datum des Inkrafttretens, Quellenlink zum Original-PDF auf erlach.ch).
+* **GitHub Flavored Markdown (GFM):** Tabellen, Verweise und Querverweise sind nativ umgesetzt.
 * **Schweizer Hochdeutsch:** Konsequente Verwendung von «ss» statt «ß» gemäss den amtlichen Schreibweisen des Kantons Bern.
-* **Fussnoten:** Kantonale und eidgenössische Gesetzesverweise (z. B. auf das kantonale Gemeindegesetz GG oder das Datenschutzgesetz DSG) sind als klickbare Markdown-Fussnoten formatiert.
+* **Strukturierte Verzeichnisse:** Die Dokumente sind in thematische Unterordner (`01_organisation_recht/`, `02_finanzen_steuern/`, `03_bau_planung/`, `04_infrastruktur_umwelt/`, `05_sicherheit_ordnung/`) aufgeteilt.
+* **Original-Quellenlink:** Jede Datei enthält im YAML-Block den Link zur Originalquelle auf [erlach.ch/de/verwaltung/dokumente/](https://www.erlach.ch/de/verwaltung/dokumente/).
 
 ---
 
 ## 📈 Beiträge und Aktualisierungen (Workflow)
 
 Da sich kommunale Erlasse durch Beschlüsse der Gemeindeversammlung oder des Gemeinderats verändern, wird dieses Archiv laufend gepflegt:
-1. **Änderungsbeschlüsse:** Nach einer Revision (z. B. durch die Gemeindeversammlung) wird der Text in der entsprechenden `.md`-Datei angepasst.
-2. **Historie:** Die Git-Historie erlaubt es, jede Textänderung im Zeitverlauf exakt nachzuvollziehen (Wer hat wann welchen Artikel geändert?).
-3. **Auflagezeugnisse:** Offizielle Publikationsdaten und kantonale Genehmigungsvermerke werden am Ende jeder Datei lückenlos dokumentiert.
+
+1. **Änderungsbeschlüsse:** Nach einer Revision wird der Text in der entsprechenden `.md`-Datei angepasst.
+2. **Historie:** Die Git-Historie erlaubt es, jede Textänderung im Zeitverlauf exakt nachzuvollziehen.
+3. **Auflagezeugnisse:** Offizielle Publikationsdaten und kantonale Genehmigungsvermerke werden am Ende jeder Datei dokumentiert.
 
 ---
 
