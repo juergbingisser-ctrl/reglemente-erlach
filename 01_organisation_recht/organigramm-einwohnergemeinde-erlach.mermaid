@@ -1,0 +1,82 @@
+---
+title: Organigramm Einwohnergemeinde Erlach
+description: Anhang I zur Verordnung über die Verwaltungsorganisation (VVorg), in Kraft seit 01.01.2019
+quelle: VVorg Art. 25, 28, 35–36 sowie Anhang II
+---
+
+graph TD
+
+    %% ── Politische Ebene ──────────────────────────────────────
+    GV["🗳️ Stimmberechtigte\n(Gemeindeversammlung / Urne)"]
+    GR["GEMEINDERAT\n(7 Mitglieder)"]
+    GV --> GR
+
+    %% Ratsbüro
+    RB["Ratsbüro\n(Gemeindepräsidium + Gemeindeschreiber/in)"]
+    GR --> RB
+
+    %% ── 7 Ressorts ────────────────────────────────────────────
+    R1["Ressort\nPräsidiales / Finanzen &\nSteuerwesen / Ortspolizei\n★ Gemeindepräsidium"]
+    R2["Ressort\nBau und Planung"]
+    R3["Ressort\nLand-, Reb- & Forstwesen\nöff. Sicherheit / Liegenschaften"]
+    R4["Ressort\nBildung, Jugend\nund Sport"]
+    R5["Ressort\nSoziales"]
+    R6["Ressort\nTourismus, Kultur &\nFreizeit / öff. Verkehr"]
+    R7["Ressort\nVer- und Entsorgung"]
+
+    GR --> R1
+    GR --> R2
+    GR --> R3
+    GR --> R4
+    GR --> R5
+    GR --> R6
+    GR --> R7
+
+    %% ── Kommissionen (je einem Ressort zugeordnet) ────────────
+    K_SWA["Stimm- und\nWahlausschuss"]
+    K_BAU["Baukommission"]
+    K_SJS["Kommission für Schule,\nJugend und Sport"]
+    K_SOZ["Regionale\nSozialkommission"]
+    K_TKF["Kommission für Tourismus,\nKultur und Freizeit"]
+
+    R1 --- K_SWA
+    R2 --- K_BAU
+    R4 --- K_SJS
+    R5 --- K_SOZ
+    R6 --- K_TKF
+
+    %% ── Verwaltungsebene ──────────────────────────────────────
+    GL["Geschäftsleitung\n(Personalunion:\nAbteilungsleitung\nGemeindeschreiberei/Bauverwaltung)"]
+    R1 -->|"Aufsicht (Art. 36 Abs. 4)"| GL
+
+    GSch["Gemeindeschreiberei"]
+    BauV["Bauverwaltung"]
+    FinV["Finanzverwaltung"]
+    RSD["Regionaler\nSozialdienst"]
+
+    GL --> GSch
+    GL --> BauV
+    GL --> FinV
+    GL --> RSD
+
+    %% ── Fachliche Anordnungsbefugnis (Art. 36 Abs. 2) ────────
+    R1 -.->|fachlich| GSch
+    R1 -.->|fachlich| FinV
+    R2 -.->|fachlich| BauV
+    R3 -.->|fachlich| GSch
+    R3 -.->|fachlich| BauV
+    R4 -.->|fachlich| GSch
+    R5 -.->|fachlich| RSD
+    R6 -.->|fachlich| GSch
+    R7 -.->|fachlich| BauV
+
+    %% ── Styling ───────────────────────────────────────────────
+    classDef politik    fill:#1a3a5c,color:#fff,stroke:#0d2137,font-weight:bold
+    classDef ressort    fill:#2c6e9e,color:#fff,stroke:#1a4f72
+    classDef kommission fill:#4a90c4,color:#fff,stroke:#2c6e9e,stroke-dasharray:4 2
+    classDef verwaltung fill:#e8f4fd,color:#1a3a5c,stroke:#2c6e9e
+
+    class GV,GR,RB politik
+    class R1,R2,R3,R4,R5,R6,R7 ressort
+    class K_SWA,K_BAU,K_SJS,K_SOZ,K_TKF kommission
+    class GL,GSch,BauV,FinV,RSD verwaltung
