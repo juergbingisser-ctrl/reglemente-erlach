@@ -9,7 +9,7 @@ rechtsgrundlage: Art. 48 Gemeindeordnung vom 19.09.2001
 approved_date: 2018-10-30
 effective_date: 2019-01-01
 status: in Kraft
-original_quelle: https://www.erlach.ch/de/verwaltung/dokumente/
+original_quelle: https://www.erlach.ch/de/verwaltung/dokumente/dokumente/verordnung-ueber-die-verwaltungsorganisation.pdf
 ---
 
 # Verordnung über die Verwaltungsorganisation (VVorg) der Einwohnergemeinde Erlach
