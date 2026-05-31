@@ -1,6 +1,6 @@
 ---
 title: Gemeindeordnung der Einwohnergemeinde Erlach
-type: document
+type: gemeindeordnung
 jurisdiction: Erlach, Kanton Bern, Schweiz
 gemeinde: Einwohnergemeinde Erlach
 kanton: BE
@@ -8,8 +8,7 @@ original_date: 2001-09-19
 last_modified: 2018-12-12
 effective_date: 2019-01-01
 status: genehmigt
-github_repository: your-repo/gemeindeordnung-erlach
-status: optimierte Markdown-Fassung für Auswertungen
+original_quelle: https://www.erlach.ch/de/verwaltung/dokumente/
 original_dokument_pdf: https://www.erlach.ch/de/verwaltung/dokumente/dokumente/gemeindeordnung.pdf
 ---
 
