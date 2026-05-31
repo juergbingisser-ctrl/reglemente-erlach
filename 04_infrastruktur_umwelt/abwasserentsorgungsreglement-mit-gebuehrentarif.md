@@ -1,11 +1,14 @@
 ---
-titel: Abwasserentsorgungsreglement mit Gebührentarif
+title: Abwasserentsorgungsreglement mit Gebührentarif
+type: reglement
+jurisdiction: Erlach, Kanton Bern, Schweiz
 gemeinde: Einwohnergemeinde Erlach
 kanton: BE
 beschluss_datum: 1996-01-01
 inkrafttreten: 1996-02-01
 tarifstand: 2009-01-01
-status: optimierte Markdown-Fassung für Auswertungen
+status: in Kraft
+original_quelle: https://www.erlach.ch/de/verwaltung/dokumente/
 original_dokument_pdf: https://www.erlach.ch/de/verwaltung/dokumente/dokumente/abwasserentsorgungsreglement-mit-gebuehrentarif.pdf
 ---
 
