@@ -12,7 +12,7 @@ Die Dokumente sind nach den offiziellen Kategorien der Gemeinde gegliedert. Die 
 
 ### ⚖️ Reglemente und Verordnungen
 
-*   [Abfallreglement mit Gebührentarif](reglemente/abfallreglement-gebuehrentarif.md)
+*   [Abfallreglement mit Gebührentarif](04_infrastruktur_planung/abfallreglement-gebuehrentarif.md)
 *   [Abwasserentsorgungsreglement mit Gebührentarif](reglemente/abwasserentsorgungsreglement-gebuehrentarif.md)
 *   [Baureglement mit Überbauungsvorschriften zu den Uferschutzplänen 1 und 2](reglemente/baureglement-uferschutzplaene.md)
 *   [Campingreglement](reglemente/campingreglement.md)
