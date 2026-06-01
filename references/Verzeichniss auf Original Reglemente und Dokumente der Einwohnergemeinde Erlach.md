@@ -12,9 +12,9 @@ Die Dokumente sind nach den offiziellen Kategorien der Gemeinde gegliedert. Die 
 
 ### ⚖️ Reglemente und Verordnungen
 
-*   [Abfallreglement mit Gebührentarif](../04_infrastruktur_planung/abfallreglement-gebuehrentarif.md)
-*   [Abwasserentsorgungsreglement mit Gebührentarif](../04_infrastruktur_planung/abwasserentsorgungsreglement-gebuehrentarif.md)
-*   [Baureglement mit Überbauungsvorschriften zu den Uferschutzplänen 1 und 2](../04_infrastruktur_planung/baureglement-uferschutzplaene.md)
+*   [Abfallreglement mit Gebührentarif](../04_infrastruktur_umwelt/abfallreglement-gebuehrentarif.md)
+*   [Abwasserentsorgungsreglement mit Gebührentarif](../04_infrastruktur_umwelt/abwasserentsorgungsreglement-gebuehrentarif.md)
+*   [Baureglement mit Überbauungsvorschriften zu den Uferschutzplänen 1 und 2](../03_bau_planung/baureglement-uferschutzplaene.md)
 *   [Campingreglement](reglemente/campingreglement.md)
 *   [Feuerwehrreglement der Feuerwehr Jolimont](reglemente/feuerwehrreglement-jolimont.md)
 *   [Feuerwehrverordnung der Feuerwehr Jolimont](reglemente/feuerwehrverordnung-jolimont.md)
@@ -37,7 +37,7 @@ Die Dokumente sind nach den offiziellen Kategorien der Gemeinde gegliedert. Die 
 *   [Reglement Kulturpreis Erlach](reglemente/reglement-kulturpreis.md)
 *   [Schulreglement Primarschule Erlach](reglemente/schulreglement-primarschule.md)
 *   [Wärmeverbundreglement](reglemente/waermeverbundreglement.md)
-*   [Wasserversorgungsreglement](../04_infrastruktur_planung/wasserversorgungsreglement.md)
+*   [Wasserversorgungsreglement](../04_infrastruktur_umwelt/wasserversorgungsreglement.md)
 
 ### 📋 Verordnungen
 
