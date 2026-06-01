@@ -12,9 +12,9 @@ Die Dokumente sind nach den offiziellen Kategorien der Gemeinde gegliedert. Die 
 
 ### ⚖️ Reglemente und Verordnungen
 
-*   [Abfallreglement mit Gebührentarif](../04_infrastruktur_umwelt/abfallreglement-gebuehrentarif.md)
-*   [Abwasserentsorgungsreglement mit Gebührentarif](../04_infrastruktur_umwelt/abwasserentsorgungsreglement-gebuehrentarif.md)
-*   [Baureglement mit Überbauungsvorschriften zu den Uferschutzplänen 1 und 2](../03_bau_planung/baureglement-uferschutzplaene.md)
+*   [Abfallreglement mit Gebührentarif](../04_infrastruktur_umwelt/abfallreglement-mit-gebuehrentarif.md)
+*   [Abwasserentsorgungsreglement mit Gebührentarif](../04_infrastruktur_umwelt/abwasserentsorgungsreglement-mit-gebuehrentarif.md)
+*   [Baureglement mit Überbauungsvorschriften zu den Uferschutzplänen 1 und 2](../03_bau_planung/baureglement-mit-ueberbauungsvorschriften-zu-den-uferschutzplaenen-1-und-2.md)
 *   [Campingreglement](reglemente/campingreglement.md)
 *   [Feuerwehrreglement der Feuerwehr Jolimont](reglemente/feuerwehrreglement-jolimont.md)
 *   [Feuerwehrverordnung der Feuerwehr Jolimont](reglemente/feuerwehrverordnung-jolimont.md)
@@ -33,7 +33,7 @@ Die Dokumente sind nach den offiziellen Kategorien der Gemeinde gegliedert. Die 
 *   [Reglement über Abstimmungen und Wahlen](reglemente/reglement-abstimmungen-wahlen.md)
 *   [Reglement über Spezialfinanzierung Wärmeverbund](reglemente/reglement-spezialfinanzierung-waermeverbund.md)
 *   [Reglement Konzessionsabgabe Stromversorgung](reglemente/reglement-konzessionsabgabe-stromversorgung.md)
-*   [Reglement Mehrwertabgabe (MWAR)](reglemente/reglement-mehrwertabgabe-mwar.md)
+*   [Reglement Mehrwertabgabe (MWAR)](../03_bau_planung/reglement-mehrwertabgabe-mwar.md)
 *   [Reglement Kulturpreis Erlach](reglemente/reglement-kulturpreis.md)
 *   [Schulreglement Primarschule Erlach](reglemente/schulreglement-primarschule.md)
 *   [Wärmeverbundreglement](reglemente/waermeverbundreglement.md)
