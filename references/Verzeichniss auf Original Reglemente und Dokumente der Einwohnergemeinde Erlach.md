@@ -12,14 +12,14 @@ Die Dokumente sind nach den offiziellen Kategorien der Gemeinde gegliedert. Die 
 
 ### ⚖️ Reglemente und Verordnungen
 
-*   [Abfallreglement mit Gebührentarif](04_infrastruktur_planung/abfallreglement-gebuehrentarif.md)
-*   [Abwasserentsorgungsreglement mit Gebührentarif](04_infrastruktur_planung/abwasserentsorgungsreglement-gebuehrentarif.md)
-*   [Baureglement mit Überbauungsvorschriften zu den Uferschutzplänen 1 und 2](04_infrastruktur_planung/baureglement-uferschutzplaene.md)
+*   [Abfallreglement mit Gebührentarif](../04_infrastruktur_planung/abfallreglement-gebuehrentarif.md)
+*   [Abwasserentsorgungsreglement mit Gebührentarif](../04_infrastruktur_planung/abwasserentsorgungsreglement-gebuehrentarif.md)
+*   [Baureglement mit Überbauungsvorschriften zu den Uferschutzplänen 1 und 2](../04_infrastruktur_planung/baureglement-uferschutzplaene.md)
 *   [Campingreglement](reglemente/campingreglement.md)
 *   [Feuerwehrreglement der Feuerwehr Jolimont](reglemente/feuerwehrreglement-jolimont.md)
 *   [Feuerwehrverordnung der Feuerwehr Jolimont](reglemente/feuerwehrverordnung-jolimont.md)
 *   [Friedhofreglement (in Kraft ab 01.01.2026)](reglemente/friedhofreglement-2026.md)
-*   [Gebührenreglement](02_finanzen_steuern/gebuehrenreglement.md)
+*   [Gebührenreglement](../02_finanzen_steuern/gebuehrenreglement.md)
 *   [Gemeindepolizeireglement](reglemente/gemeindepolizeireglement.md)
 *   [Hafenreglement](reglemente/hafenreglement.md)
 *   [Kurtaxenreglement](reglemente/kurtaxenreglement.md)
@@ -37,7 +37,7 @@ Die Dokumente sind nach den offiziellen Kategorien der Gemeinde gegliedert. Die 
 *   [Reglement Kulturpreis Erlach](reglemente/reglement-kulturpreis.md)
 *   [Schulreglement Primarschule Erlach](reglemente/schulreglement-primarschule.md)
 *   [Wärmeverbundreglement](reglemente/waermeverbundreglement.md)
-*   [Wasserversorgungsreglement](04_infrastruktur_planung/wasserversorgungsreglement.md)
+*   [Wasserversorgungsreglement](../04_infrastruktur_planung/wasserversorgungsreglement.md)
 
 ### 📋 Verordnungen
 
