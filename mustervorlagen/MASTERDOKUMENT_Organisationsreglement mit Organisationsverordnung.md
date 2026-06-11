@@ -23,7 +23,7 @@ wahlverfahren_optionen:
 
 ### ⚠️ WICHTIG: DIES IST KEINE FINALE GEMEINDE-VERSION!
 
-Dieses Dokument ist eine **Vorlage für Revisor einer Gemeinde** (z.B. Gemeinderat, Rechtsanwalt).
+Dieses Dokument ist eine **Vorlage für eine Gemeinde** (z.B. Gemeinderat, Rechtsanwalt).
 
 Sie müssen dieses Dokument **individualisieren**:
 - ✅ Entscheidungen treffen (Versammlung vs. Urne, Betragsschwellen)
@@ -250,8 +250,6 @@ wenn diese CHF ____ übersteigen.
 | CHF 100'000 | Balance | 1–2×/Jahr | ✅ **ERLACH-EMPFEHLUNG** |
 | CHF 200'000 | Seltene Referenden | 1–2×/5 Jahre | Konservativ |
 
-**Wir empfehlen für Erlach: CHF 100'000**
-
 ### Schwelle 3: Wiederkehrende Ausgaben
 
 **Frage:** Gemeinderat hat Kompetenzen für wiederkehrende Ausgaben, die **X-mal kleiner** sind als für neue Ausgaben.
@@ -305,15 +303,6 @@ Dann KONSISTENT eintragen!
 6. **Soziales** (Sozialhilfe, Kinderbetreuung)
 7. **Energie & öffentlicher Verkehr** (Stromversorgung, Verkehr)
 
-**Erlach-Empfehlung (mit Schwerpunkt "Ver- & Entsorgung"):**
-
-1. **Präsidiales**
-2. **Finanzen & Liegenschaften** (Finanzen + Liegenschaften kombiniert)
-3. **Bau, Planung & Umwelt** (Bau + Planung + Umwelt kombiniert)
-4. **Ver- und Entsorgung** (👈 **JÜRGS RESSORT!** Wasser, Abwasser, Müll)
-5. **Bildung & Kultur**
-6. **Soziales**
-7. **Sicherheit & Werkhof** oder separate
 
 ---
 
@@ -575,8 +564,9 @@ Abteilung Gemeinden
 Reiterstrasse 11  
 3011 Bern
 
-Tel: [Nummer]  
-Email: [Email]
+Internet: [https://www.dij.be.ch/de/start/ueber-uns/aemter-der-dij/amt-fuer-gemeinden-und-raumordnung.html]
+Tel: [+41316337730]  
+Email: [agr.info@be.ch]
 
 **Unterlagen:**
 - ✅ Organisationsreglement (fertig ausgefüllt)
